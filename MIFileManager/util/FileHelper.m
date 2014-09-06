@@ -2,7 +2,7 @@
 //  FileHelper.m
 //  MIFileManager
 //
-//  Created by Ivan Gan on 8/15/14.
+//  Created by morph85 on 8/15/14.
 //
 //
 

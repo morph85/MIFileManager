@@ -1,8 +1,8 @@
 //
-//  AssetManager.h
+//  MIAssetManager.h
 //  MIFileManager
 //
-//  Created by PRDCM CDC on 9/10/12.
+//  Created by morph85 on 9/10/12.
 //
 //
 

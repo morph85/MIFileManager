@@ -2,7 +2,7 @@
 //  URLParser.m
 //  MIFileManager
 //
-//  Created by PRDCM CDC on 9/26/12.
+//  Created by morph85 on 9/26/12.
 //
 //
 

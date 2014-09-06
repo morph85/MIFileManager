@@ -1,5 +1,5 @@
 //
-//  ImageLoader.m
+//  MIImageLoader.m
 //  MIFileManager
 //
 //  Created by morph85 on 11/30/12.

@@ -1,8 +1,8 @@
 //
-//  AssetManager.m
+//  MIAssetManager.m
 //  MIFileManager
 //
-//  Created by PRDCM CDC on 9/10/12.
+//  Created by morph85 on 9/10/12.
 //  Singleton class from:
 //    http://galloway.me.uk/tutorials/singleton-classes
 //

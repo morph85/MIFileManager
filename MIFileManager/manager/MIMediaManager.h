@@ -1,8 +1,8 @@
 //
-//  MediaManager.h
+//  MIMediaManager.h
 //  MIFileManager
 //
-//  Created by PRDCM CDC on 3/27/13.
+//  Created by morph85 on 3/27/13.
 //  Copyright (c) 2013 Noctorus. All rights reserved.
 //
 

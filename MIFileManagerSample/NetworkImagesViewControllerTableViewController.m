@@ -2,7 +2,7 @@
 //  NetworkImagesViewControllerTableViewController.m
 //  MIFileManagerSample
 //
-//  Created by Ivan Gan on 9/6/14.
+//  Created by morph85 on 9/6/14.
 //  Copyright (c) 2014 morph85. All rights reserved.
 //
 
